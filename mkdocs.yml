@@ -8,3 +8,4 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
+site_url: https://pedrubik2000.github.io/
