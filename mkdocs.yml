@@ -1,48 +1,14 @@
-site_name: Lazy Guide
+site_name: La guía de Pedro
 site_url: https://pedrubik2000.github.io/
-site_description: la guía de herramientas floja del japo
+site_description: La guía de Yomitan, Anki y Japonés
 site_author: Pedro
 nav:
   - Bienvenido:
-    - Introducción: 'la-guia-floja-del-japo/index.md'
-    - Changelog (2024-02-26): 'la-guia-floja-del-japo/anki.md'
-    - About: 'la-guia-floja-del-japo/about.md'
-    - Credits: 'la-guia-floja-del-japo/credits.md'
-  - Setup:
-    - Setup Introduction: 'la-guia-floja-del-japo/setup.md'
-    - Essentials:
-      - "Setup: Anki": 'la-guia-floja-del-japo/setupAnki.md'
-      - "Setup: Yomitan PC": 'la-guia-floja-del-japo/setupYomitanOnPC.md'
-      - "Setup: Yomitan Android": 'la-guia-floja-del-japo/setupYomitanOnAndroid.md'
-      - "Setup: ShareX": 'la-guia-floja-del-japo/setupShareX.md'
-    - Visual Novel:
-      - "Setup: VN on PC": 'la-guia-floja-del-japo/setupVnOnPC.md'
-      - "Setup: VN on Android": 'la-guia-floja-del-japo/setupVnOnAndroid.md'
-    - Light Novel:
-      - "Setup: LN on PC": 'la-guia-floja-del-japo/setupLnOnPC.md'
-      - "Setup: LN on Android": 'la-guia-floja-del-japo/setupLnOnAndroid.md'
-    - Manga:
-      - "Setup: Manga on PC": 'la-guia-floja-del-japo/setupMangaOnPC.md'
-      - "Setup: Manga on Android": 'la-guia-floja-del-japo/setupMangaOnAndroid.md'
-    - Anime:
-      - "Setup: Anime on PC": 'la-guia-floja-del-japo/setupAnimeOnPC.md'
-      - "Setup: Anime on Android": 'la-guia-floja-del-japo/setupAnimeOnAndroid.md'
-    - Miscellaneous:
-      - "Transfer Lazy Setup to JPMN": 'la-guia-floja-del-japo/transferAnkiSetup.md'
-      - "Updating: Anki JPMN Note": 'la-guia-floja-del-japo/updatingAnkiJPMNNote.md'
-    - Archive:
-      - "Setup: Anki (Old)": 'la-guia-floja-del-japo/setupAnkiOld.md'
-      - "Setup: Yomitan PC (Old)": 'la-guia-floja-del-japo/setupYomitanOnPCOld.md'
-      - "Setup: Yomitan Android (Old)": 'la-guia-floja-del-japo/setupYomitanOnAndroidOld.md'
-      - "Updating: Anki JPMN Note (Old)": 'la-guia-floja-del-japo/updatingAnkiJPMNNoteOld.md'
-  - Sub Guide:
-    - Sub Guide Introduction: 'la-guia-floja-del-japo/subGuide.md'
-    - Concise Guide to Jumpstart JP: 'la-guia-floja-del-japo/conciseGuideToJumpstartJP.md'
-    - Retention How-To: 'la-guia-floja-del-japo/retentionHowTo.md'
-  - Resources: 
-    - Resources Introduction: 'la-guia-floja-del-japo/resources.md'
-    - Immersion Data Spreadsheet: 'la-guia-floja-del-japo/immersionDataSpreadsheet.md'
-    - Deck Resources: 'la-guia-floja-del-japo/resourcesDecks.md'
+    - Introducción: 'guia-del-japones/index.md'
+    - Changelog (2024-02-26): 'guia-del-japones/anki.md'
+    - About: 'guia-del-japones/about.md'
+    - Credits: 'guia-del-japones/credits.md'
+
 theme:
   name: material
   features:
