@@ -17,6 +17,8 @@ Hola
 - [Instalar Python 3.11](https://www.python.org/downloads/)
 - [Descargar Configuración de ShareX](https://drive.google.com/drive/folders/1H6ta2pgaFd8jZgaRzX5ypqrd-w7RKWDK)
 - [Configurar ShareX](https://arbyste.github.io/jp-mining-note-prerelease/scripts/#sharex-hotkeys-prerequisites)
+- [Instalar Textractor](https://github.com/Artikash/Textractor/releases/tag/v5.2.0)
+- [Instalar TextractorSender](https://github.com/KamWithK/TextractorSender/releases/tag/1.1-beta)
 ## Extensiones de Anki
 
 ### AnkiConnect
