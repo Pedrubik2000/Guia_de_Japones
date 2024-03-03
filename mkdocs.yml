@@ -5,9 +5,15 @@ site_author: Pedro
 nav:
   - Bienvenido:
     - Introducción: 'guia-del-japones/index.md'
+  - Yomitan:
+    - Introducción: 'guia-del-japones/index.md'
+  - Anki:
     - Changelog (2024-02-26): 'guia-del-japones/anki.md'
-    - About: 'guia-del-japones/about.md'
-    - Credits: 'guia-del-japones/credits.md'
+  - Diccionarios:
+    - Introducción: 'guia-del-japones/index.md'
+  - Mazos:
+    - Introducción: 'guia-del-japones/index.md'
+
 
 theme:
   name: material

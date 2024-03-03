@@ -2,13 +2,18 @@
 
 Hola
 
-## Teclado ingles espanol
+# Primeros pasos
 
-https://www.spanishinput.com/keyboard.html
+- [Instalar Anki](https://apps.ankiweb.net/#download)
+- [Instalar Teclado Inglés-Español](https://www.spanishinput.com/keyboard.html)
+- [Instalar Teclado Japonés](https://www.google.co.jp/ime/)
+- [Descargar diccionarios](https://drive.google.com/drive/folders/1LXMIOoaWASIntlx1w08njNU005lS5lez)
+- [Instalar Noto Sans JP y Noto Serif JP](https://fonts.google.com/)
+- [Instalar Extensiones](#extensiones-de-anki)
+- [Descargar Local Audio](https://github.com/themoeway/local-audio-yomichan)
+- [Instalar 7zip](https://www.7-zip.org/download.html)
 
-## Yomitan Setup
-
-## Addons de anki
+## Extensiones de Anki
 
 ### AnkiConnect
 ```
@@ -18,33 +23,31 @@ https://www.spanishinput.com/keyboard.html
 ```
 876946123
 ```
-### AnkiMorphs
-```
-472573498
-```
 ### Edit Field During Review (Cloze)
 ```
 385888438
 ```
-
-## Dictionarios
-
-- Bilingual:
-    * [JA-EN] jitendex-yomichan
-    * [JA-EN] NEW 斎藤和英大辞典
-    * [JA-EN] 新和英
-- Grammar:
-    * [JA Grammar] dojg-consolidated-v1_01
-- Frequency:
-    * [JA Freq] JPDB_2022-05-10T03_27_02.930Z
-    * [JA Freq] Freq_CC100
-    * [JA Freq] BCCWJ-LUW
-- Monolingual but still useful for coverage to a beginner!
-    * [JA-JA] 実用日本語表現辞典
-    * [JA-JA] デジタル大辞泉
-    * [JA-JA Encyclopedia] Pixiv
-- Kanji information
-    * [Kanji] JPDB Kanji
-    * [Kanji] KANJIDIC_english
-- Pitch accent
-    * [Pitch] 大辞泉
+### Review Heatmap
+```
+1771074083
+```
+### AutoReorder
+```
+757527607
+```
+### Local Audio Server for Yomichan
+```
+1045800357
+```
+### Yomichan Forvo Server
+```
+580654285
+```
+### 🩸Leech Toolkit - Advanced tools for handling leech (Fixed for Anki 23 by Shige)
+```
+1573867049
+```
+### 🏃🏻No Space Dash-Prevents answer for 1.5 seconds-(Fixed for Anki 23 by Shige)
+```
+1633380637
+```
