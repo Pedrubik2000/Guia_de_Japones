@@ -8,11 +8,15 @@ Hola
 - [Instalar Teclado Inglés-Español](https://www.spanishinput.com/keyboard.html)
 - [Instalar Teclado Japonés](https://www.google.co.jp/ime/)
 - [Descargar diccionarios](https://drive.google.com/drive/folders/1LXMIOoaWASIntlx1w08njNU005lS5lez)
+- [Descargar configuración de Yomitan](https://drive.google.com/drive/folders/1H6ta2pgaFd8jZgaRzX5ypqrd-w7RKWDK)
 - [Instalar Noto Sans JP y Noto Serif JP](https://fonts.google.com/)
 - [Instalar Extensiones](#extensiones-de-anki)
 - [Descargar Local Audio](https://github.com/themoeway/local-audio-yomichan)
 - [Instalar 7zip](https://www.7-zip.org/download.html)
-
+- [Instalar ShareX](https://getsharex.com/downloads)
+- [Instalar Python 3.11](https://www.python.org/downloads/)
+- [Descargar Configuración de ShareX](https://drive.google.com/drive/folders/1H6ta2pgaFd8jZgaRzX5ypqrd-w7RKWDK)
+- [Configurar ShareX](https://arbyste.github.io/jp-mining-note-prerelease/scripts/#sharex-hotkeys-prerequisites)
 ## Extensiones de Anki
 
 ### AnkiConnect
@@ -50,4 +54,8 @@ Hola
 ### 🏃🏻No Space Dash-Prevents answer for 1.5 seconds-(Fixed for Anki 23 by Shige)
 ```
 1633380637
+```
+### JPMN Manager (with prereleases) (New Version)
+```
+301910299
 ```
