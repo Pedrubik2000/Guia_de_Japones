@@ -5,14 +5,12 @@ site_author: Pedro
 nav:
   - Bienvenido:
     - Introducción: 'guia-del-japones/index.md'
-  - Yomitan:
-    - Introducción: 'guia-del-japones/index.md'
-  - Anki:
-    - Changelog (2024-02-26): 'guia-del-japones/anki.md'
+  - Instalación:
+    - Primeros pasos: 'guia-del-japones/anki.md'
   - Diccionarios:
-    - Introducción: 'guia-del-japones/index.md'
+    - Introducción: 'guia-del-japones/diccionarios.md'
   - Mazos:
-    - Introducción: 'guia-del-japones/index.md'
+    - Introducción: 'guia-del-japones/mazos.md'
 
 
 theme:
