@@ -1,52 +1,63 @@
-## Anki and Yomitan Format
+# Bienvenido
 
-- Soporte de Pc para: `Monolingual`y `Bilingual`
-=== "Anki"
-    === "PC | Dark"
-        ![PC | Dark](../img/mining-jp-dark.png){height=300 width=600}
-    === "PC | Light"
-        ![PC | Light](../img/mining-jp-light.png){height=300 width=600}
-    === "Mobile | Dark"
-        ![Mobile | Dark](../img/mining-jp-mobile-dark.png){height=600 width=350}
-    === "Mobile | Light"
-        ![Mobile | Light](../img/mining-jp-mobile-light.png){height=600 width=350}
-=== "Yomitan"
-    === "Yomitan | Dark"
-        ![Yomitan | Dark](../img/yomitan-dark.png){height=300 width=600}
-    === "Yomitan | Light"
-        ![Yomitan | Light](../img/yomitan-light.png){height=300 width=600}
-    === "Yomitan Profile"
-        ![Yomitan Profile](../img/yomitan-profiles.png){height=300 width=600}
+Hola
 
-#### Anki Features
+# Primeros pasos
 
-??? note "Anki Features <small>(click here)</small>"
+- [Instalar Anki](https://apps.ankiweb.net/#download)
+- [Instalar Teclado Inglés-Español](https://www.spanishinput.com/keyboard.html)
+- [Instalar Teclado Japonés](https://www.google.co.jp/ime/)
+- [Descargar diccionarios](https://drive.google.com/drive/folders/1LXMIOoaWASIntlx1w08njNU005lS5lez)
+- [Descargar configuración de Yomitan](https://drive.google.com/drive/folders/1H6ta2pgaFd8jZgaRzX5ypqrd-w7RKWDK)
+- [Instalar Noto Sans JP y Noto Serif JP](https://fonts.google.com/)
+- [Instalar Extensiones](#extensiones-de-anki)
+- [Descargar Local Audio](https://github.com/themoeway/local-audio-yomichan)
+- [Instalar 7zip](https://www.7-zip.org/download.html)
+- [Instalar ShareX](https://getsharex.com/downloads)
+- [Instalar Python 3.11](https://www.python.org/downloads/)
+- [Descargar Configuración de ShareX](https://drive.google.com/drive/folders/1H6ta2pgaFd8jZgaRzX5ypqrd-w7RKWDK)
+- [Configurar ShareX](https://arbyste.github.io/jp-mining-note-prerelease/scripts/#sharex-hotkeys-prerequisites)
+- [Instalar Textractor](https://github.com/Artikash/Textractor/releases/tag/v5.2.0)
+- [Instalar TextractorSender](https://github.com/KamWithK/TextractorSender/releases/tag/1.1-beta)
+## Extensiones de Anki
 
-    Here are the demos for `Interfaz`, `Card Creation` and `Field`:
-        
-    - This is `already configured` and `you don't have to do anything`
-    
-    === "Interfaz"
-        <video height="300" width="600"  controls>
-        <source src="../vid/mining-jp-gui.mp4" type="video/mp4">
-        </video>
-    === "Card Creation"
-        <video height="300" width="600"  controls>
-        <source src="../vid/jpmn-card-creation.mp4" type="video/mp4">
-        </video>
-    === "Field Customization"
-        <video height="300" width="600"  controls>
-        <source src="../vid/jpmn-field.mp4" type="video/mp4">
-        </video>
-    
-    [Source](https://aquafina-water-bottle.github.io/jp-mining-note/)
-
----
-
-## [Mining Demo](https://youtu.be/seAMOvIiFcw)
-- This is outdated `Anki/Yomitan Format` but the method is pretty much the same
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/seAMOvIiFcw" title="Mining Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-[Proceed on Setup Guide](setup.md){ .md-button .md-button }
+### AnkiConnect
+```
+2055492159
+```
+### Pass/Fail 2: Remove the "Easy" and "Hard" buttons
+```
+876946123
+```
+### Edit Field During Review (Cloze)
+```
+385888438
+```
+### Review Heatmap
+```
+1771074083
+```
+### AutoReorder
+```
+757527607
+```
+### Local Audio Server for Yomichan
+```
+1045800357
+```
+### Yomichan Forvo Server
+```
+580654285
+```
+### 🩸Leech Toolkit - Advanced tools for handling leech (Fixed for Anki 23 by Shige)
+```
+1573867049
+```
+### 🏃🏻No Space Dash-Prevents answer for 1.5 seconds-(Fixed for Anki 23 by Shige)
+```
+1633380637
+```
+### JPMN Manager (with prereleases) (New Version)
+```
+301910299
+```
