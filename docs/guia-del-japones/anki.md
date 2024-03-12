@@ -1,35 +1,15 @@
----
-hide:
-  - footer
----
-
-JP Lazy Guide is for:
-
-- People who don't want to bother customizing their settings or knowing stuff technically
-- For people who want an all-in-one import and everything and done compared to other fully detailed guides but scattered tools
-- You want stable tools that lasts forever (If you don't update nothing will break)
-
-New to Japanese and want to immerse quickly? See [Concise Guide to Jumpstart Japanese](conciseGuideToJumpstartJP.md)
-
-If you want to buy me a coffee(Thanks!): [Ko-fi (Xelieu)](https://ko-fi.com/xelieu)
-
-Have any questions? Contact me at Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)
-
----
-
 ## Anki and Yomitan Format
 
-- 4 in 1 Profile Support: `Monolingual`, `Bilingual`, `LN & Manga in Android`, `VN in Android`
-
+- Soporte de Pc para: `Monolingual`y `Bilingual`
 === "Anki"
     === "PC | Dark"
-        ![PC | Dark](../img/jpmn-dark.png){height=300 width=600}
+        ![PC | Dark](../img/mining-jp-dark.png){height=300 width=600}
     === "PC | Light"
-        ![PC | Light](../img/jpmn-light.png){height=300 width=600}
+        ![PC | Light](../img/mining-jp-light.png){height=300 width=600}
     === "Mobile | Dark"
-        ![Mobile | Dark](../img/mobile-jpmn-dark.png){height=600 width=350}
+        ![Mobile | Dark](../img/mining-jp-mobile-dark.png){height=600 width=350}
     === "Mobile | Light"
-        ![Mobile | Light](../img/mobile-jpmn-light.png){height=600 width=350}
+        ![Mobile | Light](../img/mining-jp-mobile-light.png){height=600 width=350}
 === "Yomitan"
     === "Yomitan | Dark"
         ![Yomitan | Dark](../img/yomitan-dark.png){height=300 width=600}
@@ -42,13 +22,13 @@ Have any questions? Contact me at Discord: [xelieu](https://www.discordapp.com/u
 
 ??? note "Anki Features <small>(click here)</small>"
 
-    Here are the demos for `GUI`, `Card Creation` and `Field`:
+    Here are the demos for `Interfaz`, `Card Creation` and `Field`:
         
     - This is `already configured` and `you don't have to do anything`
     
-    === "GUI"
+    === "Interfaz"
         <video height="300" width="600"  controls>
-        <source src="../vid/jpmn-gui.mp4" type="video/mp4">
+        <source src="../vid/mining-jp-gui.mp4" type="video/mp4">
         </video>
     === "Card Creation"
         <video height="300" width="600"  controls>
