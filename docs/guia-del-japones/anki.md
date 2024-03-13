@@ -20,7 +20,7 @@ Hola
 - [Instalar Textractor](https://github.com/Artikash/Textractor/releases/tag/v5.2.0)
 - [Instalar TextractorSender](https://github.com/KamWithK/TextractorSender/releases/tag/1.1-beta)
 ## Extensiones de Anki
-
+![Yomitan | Dark](../img/addons-anki.png){height=300 width=600}
 ### AnkiConnect
 ```
 2055492159
